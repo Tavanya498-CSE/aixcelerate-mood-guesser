@@ -37,3 +37,35 @@ Reflection
 What was hardest, and what I learned that I did not know before:
 
 Understanding string uppercase , lowercase,translate and replace methods, loops and keyword matching was challenging at first. I learned how to use Python lists, tuples, functions, conditions, loops and string methods. I also learned how to test a program and calculate its accuracy by using formula.
+
+**due to network error, screenshot is not uploading,so I copy and pasted the output**
+
+output 1:
+(8,7)
+output 2:
+Happy 
+Sad
+output 3:
+Sentence: I won a medal in the sports meet
+Actual mood: Happy
+Predicted mood: Happy
+
+Sentence: I lost my notebook before the exam
+Actual mood: Sad
+Predicted mood: Sad
+
+Sentence: My friends gave me a lovely surprise
+Actual mood: Happy
+Predicted mood: Happy
+
+Sentence: The train was late and I felt upset
+Actual mood: Sad
+Predicted mood: Sad
+
+Sentence: Today was a great day
+Actual mood: Happy
+Predicted mood: Happy
+
+Correct predictions: 5
+Total predictions: 5
+Accuracy: 100.0 %
